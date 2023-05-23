@@ -1,10 +1,10 @@
 package hw4JavaVariables;
 
-public class TestAboutMe {
+public class TestAboutMe2 {
 
 	public static void main(String[] args) {
 
-//		Constructor is initialized below -->>
+//		Default Constructor is initialized below -->>
 		AboutMe2 myinfo = new AboutMe2();
 //     Variables initialized below-->>
 		myinfo.name = "Riyadth B";
@@ -16,7 +16,7 @@ public class TestAboutMe {
 		myinfo.myWeight = 7.200300300;
 		myinfo.sex = 'M';
 		myinfo.usCitizen = true;
-//		Methood initialized below -->>
+//		Method initialized below -->>
 		myinfo.aboutMe();
 
 		System.out.println("\n-------------------------------\n");
@@ -33,7 +33,7 @@ public class TestAboutMe {
 		alex.myWeight = 8.200200200;
 		alex.sex = 'F';
 		alex.usCitizen = false;
-//		Methood initialized below -->>
+//		Method initialized below -->>
 		alex.aboutMe();
 
 	}

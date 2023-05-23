@@ -1,7 +1,7 @@
 package hw1JavaBasic;
 
 /*
- * slash + shift 8 + enter --> This is how we can create multiple line comments
+ * slash + shift 8 + enter -->> This is how we can create multiple line comments
  * Multiple comments can not be use at the end of the code
 
  */

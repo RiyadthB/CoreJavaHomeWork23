@@ -2,11 +2,11 @@ package hw3_java_variable;
 
 public class AboutMe1 {
 
-// This is variable declared.
+// This is variable declared -->> below
 	public String raza;
 // This is variable initialized declared.
 	public String name = "Riyadth Bhuiyan";
-//	primitive data 8 type are below ------>>>
+//	primitive data 8 type are -->> below
 	public byte age = 104;
 	public short myRent = 2000;
 	public int mySalary = 10081008;
@@ -17,7 +17,7 @@ public class AboutMe1 {
 	public boolean usCitizen = true;
 
 	public static void main(String[] args) {
-// Constructor is initialized
+// Default Constructor is initialized -->> below
 		AboutMe1 myinfo = new AboutMe1();
 
 		System.out.println("This is al about Myinfo");

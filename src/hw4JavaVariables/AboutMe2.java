@@ -1,9 +1,9 @@
 package hw4JavaVariables;
 
 public class AboutMe2 {
-// Variables declared
+// Variables declared -->>
 	public String name;
-// This is 8 type of variables declared
+// This is 8 type of variables declared -->>
 	public byte age;
 	public short myRent;
 	public int mySalary;
