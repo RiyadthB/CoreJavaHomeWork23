@@ -9,12 +9,12 @@ public class DiabeticCondition {
 		double hbA1c = scanner.nextDouble();
 
 		if (hbA1c > 6.4) {
-			System.out.println("I am a diabetic patient");
+			System.out.println("I'm a diabetic patient");
 		} else if (hbA1c <= 6.4) {
 			if (hbA1c >= 5.7) {
-				System.out.println("I am a pre-diabetic patient");
+				System.out.println("I'm a pre-diabetic patient");
 			} else if (hbA1c < 5.7) {
-				System.out.println("I am a healthy person");
+				System.out.println("I'm a healthy person");
 			}
 		}
 
